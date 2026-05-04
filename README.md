@@ -41,6 +41,3 @@ A support ticket system that allows users to submit issues, track ticket progres
 
 ## 📫 Contact Me
 - Email: bayansaffour9298@gmail.com
-- Email: your-email@example.com
-- LinkedIn: your-linkedin-link
-- GitHub: https://github.com/yourusername
